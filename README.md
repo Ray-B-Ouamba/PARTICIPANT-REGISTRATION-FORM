@@ -1,5 +1,5 @@
 # PARTICIPANT-REGISTRATION-FORM
-A form for individuals to sign up or enroll in an remote event.  
+A form for individuals to sign up or enroll in an event.  
 
 **PROJECT LINK:** https://ray-b-ouamba.github.io/PARTICIPANT-REGISTRATION-FORM/
 
