@@ -1,4 +1,4 @@
-sssssssssss
+ssssssssssss
 # PARTICIPANT-REGISTRATION-FORM
 A form for individuals to sign up or enroll in an event.  
 
